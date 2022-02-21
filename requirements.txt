@@ -1,0 +1,9 @@
+urllib.parse
+requests
+bs4
+colorama
+datetime
+sys
+time
+threading
+os
