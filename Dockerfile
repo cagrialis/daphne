@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:kinetic
 
 RUN  apt-get update -y \
      && apt install curl -y \
